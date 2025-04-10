@@ -59,4 +59,13 @@ myCity2.info.lake = true;
 console.log(myCity2);
 console.log(myCity);
 
+let a = 5;
+let b = 15;
+
+function sum(a, b) {
+	const c = a + b;
+	console.log(c);
+}
+
+sum(a, b);
 
